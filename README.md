@@ -19,4 +19,4 @@
    - Locally: (git tag -d V1.7)
    - Remotely: (git push origin --delete V1.7)
 
-![Git Banner](git-blog-header.png)
+![Git Banner](git.png)
